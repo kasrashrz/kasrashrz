@@ -12,6 +12,7 @@
 <!-- 	<br /> -->
 
  <div align="left">
+  
   ### Techs:
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Jenkins](https://img.shields.io/badge/-jenkins-000?&logo=jenkins)
@@ -25,7 +26,7 @@
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-000?&logo=kubernetes)
 ![Golang](https://img.shields.io/badge/-golang-000?&logo=go)
   <br/>
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)  
 ### Stay in touch:
 <ul>
 	  <li><a href="kasthedeveloper@gmail.com">📧 Email</a></li>
