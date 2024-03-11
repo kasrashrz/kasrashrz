@@ -23,7 +23,7 @@
 ![Ansible](https://img.shields.io/badge/-ansible-000?&logo=ansible)
 ![Vagrant](https://img.shields.io/badge/-vagrant-000?&logo=vagrant)
 ![Kubernetes](https://img.shields.io/badge/-kubernetes-000?&logo=kubernetes)
-![Golang](https://img.shields.io/badge/-golang-000?&logo=Golang)
+![Golang](https://img.shields.io/badge/-golang-000?&logo=go)
   <br/>
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
 ### Stay in touch:
