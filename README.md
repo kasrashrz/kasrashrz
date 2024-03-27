@@ -2,6 +2,7 @@
 	<ul>
   <li>👋 Hi there! I'm Kasra Shirazi, a junior DevOps Engineer.</li>
   <li>🚀 Specializing in many DevOps tools.</li>
+  <li>🖥️ Used to be a Golang Back-end developer and Implemented many different microservices, <b>Specially related to Games and GameServers</b></li>
 <!--   <li>💻 Let's connect and collaborate! You can reach me via:</li>
   <ul>
 	  <br />
