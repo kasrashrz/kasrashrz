@@ -1,11 +1,6 @@
 <h1 align="left">Junior DevOps Engineer</h1>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/fbf5b5f452655970a1795837e1b9888c5161ad8773b1a285c6fd65e7ea2f33c3/68747470733a2f2f6d6972626f7a6f7267692e636f6d2f766964656f732f636f64652e676966"  />
-</div>
-
 ###
 
 <div align="center">
